@@ -1,0 +1,11 @@
+:root {
+  --bg: rgba(125, 122, 122, 1);
+  --blue: rgba(17, 126, 200, 1);
+  --green: rgba(90, 180, 144, 1);
+  --title: rgba(29, 29, 29, 1);
+  --variable-collection-blue-bg: rgba(109, 169, 209, 1);
+  --variable-collection-deep-green: rgba(65, 135, 107, 1);
+  --variable-collection-footer: rgba(52, 156, 226, 1);
+  --variable-collection-title-logo: rgba(34, 34, 34, 1);
+  --variable-collection-txt: rgba(110, 110, 110, 1);
+}

@@ -1,0 +1,45 @@
+.property-bt-wrapper {
+  align-items: flex-start;
+  border-radius: 4px 20px 4px 20px;
+  display: inline-flex;
+  padding: 16px 28px;
+  position: relative;
+}
+
+.property-bt-wrapper .frame-8 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.property-bt-wrapper .div-2 {
+  font-family: "PingFang TC-Semibold", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.property-bt-wrapper.second-bt {
+  border: 1px solid;
+  border-color: #fad749;
+}
+
+.property-bt-wrapper.main-bt {
+  background-color: #fad749;
+}
+
+.property-bt-wrapper.second-bt .div-2 {
+  color: #fad749;
+}
+
+.property-bt-wrapper.main-bt .div-2 {
+  color: #0064a7;
+}

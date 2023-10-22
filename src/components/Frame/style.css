@@ -1,0 +1,47 @@
+.frame {
+  height: 48px;
+  position: relative;
+  width: 48px;
+}
+
+.frame .overlap {
+  height: 12px;
+  left: 4px;
+  position: absolute;
+  top: 33px;
+  width: 40px;
+}
+
+.frame .subtract {
+  height: 7px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.frame .img {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.frame .overlap-group {
+  background-image: url(../../../static/img/ellipse-3-1.svg);
+  background-size: 100% 100%;
+  height: 31px;
+  left: 14px;
+  position: absolute;
+  top: 2px;
+  width: 23px;
+}
+
+.frame .ellipse {
+  height: 5px;
+  left: 14px;
+  position: absolute;
+  top: 18px;
+  width: 4px;
+}
