@@ -12,10 +12,8 @@ export const PropertyBtWrapper = ({ property1, className }) => {
     <div className={`property-bt-wrapper ${property1} ${className}`}>
       <div className="frame-8">
         <div className="div-2">
-        <a href="https://dapp-ts.vercel.app">
           {property1 === "main-bt" && <>Access App</>}
-        </a>
-          {property1 === "second-bt" && <a href="https://github.com/puddle-finance/puddle-move/blob/master/README.md"> Documentation</a>}
+          {property1 === "second-bt" && <> Documentation</>}
         </div>
       </div>
     </div>
