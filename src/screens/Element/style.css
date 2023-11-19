@@ -78,7 +78,8 @@
 }
 
 .element .puddle-finance-is-a {
-  color: khaki;
+  /* color: khaki; */
+  color: white;
   font-family: "PingFang TC-Semibold", Helvetica;
   font-size: 20px;
   font-weight: 400;
