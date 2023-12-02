@@ -7,5 +7,5 @@ export default defineConfig({
   define: {
 		'process.env': {},
 	},
-  proxy: "http://localhost:5173"
+  proxy: "http://localhost:5172"
 })

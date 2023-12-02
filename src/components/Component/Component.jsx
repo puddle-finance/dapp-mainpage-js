@@ -16,11 +16,12 @@ export const Component = ({
         {property1 === "component-21" && (
           <>
             <div className="frame-3">
+              <Frame className="logo" ellipse={frameEllipse} subtract={frameSubtract} />
               <p className="p">
                 <span className="text-wrapper">Puddle </span>
                 <span className="span">Finance</span>
               </p>
-              <Frame className="logo" ellipse={frameEllipse} subtract={frameSubtract} />
+              
             </div>
             <DiscordIcon className="social-icons" />
           </>
