@@ -29,7 +29,7 @@ export const Element = () => {
                     they are shared with the investors.
                   </p>
                   <div className="frame-12">
-                  <a href="https://dapp-ts.vercel.app">
+                  <a href="https://puddle-finance-dapp.vercel.app/">
                     <PropertyBtWrapper className="component-instance" property1="main-bt" />
                   </a>
                   <a href="https://github.com/puddle-finance/puddle-move/blob/master/README.md">
